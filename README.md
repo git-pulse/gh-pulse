@@ -85,7 +85,7 @@ A **pulse snapshot** is a report that answers questions about a project — ques
 
 The `gh-pulse` extension generates snapshots with data and graphs that answer those questions.
 
-### Notes on using the gh-pulse extension
+## Notes on using the gh-pulse extension
 
 - The month ranges shown are for logical months based on the current date (today) rather than calendar months. That is, each “month” range shown ends on the same calendar day as today — rather than being a calendar month starting on the 1st of a given month and ending on the 30th, 31st, 28th, or 29th.
 
