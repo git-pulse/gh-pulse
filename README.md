@@ -1,4 +1,4 @@
-#### How to install
+## How to install
 
 ```
 gh extension install git-pulse/gh-pulse
