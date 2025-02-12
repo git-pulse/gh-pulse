@@ -4,6 +4,8 @@
 gh extension install git-pulse/gh-pulse
 ```
 
+## Usage
+
 **How to:** Use the `gh-pulse` extension to show a [pulse snapshot](#pulse-snapshots) of the past 6 months of committer activity and issue/PR activity for any git/GitHub repo by doing this: `cd` into your local clone of any repo, and run the following:
 
 ```bash
